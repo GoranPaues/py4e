@@ -1,6 +1,6 @@
 # Python For Everybody Assignments
 
-The assignments I made in the course [Python for Everybody](py4e.com). All assignments I submit here have been graded by the course server.
+The assignments I made in the course [Python for Everybody](py4e.com).
 
 ## Prerequiste
 
@@ -12,10 +12,10 @@ The assignments I made in the course [Python for Everybody](py4e.com). All assig
 
 * Open a command terminal and go to the py4e git directory.
 
-* Run an assignment with python:
+* Run an assignment with python from command line:
 
-```
-Goranpaues@Gorans-MBP py4e % python 2.3exercise.py 
+```cmd
+> python 2.3exercise.py
 Enter Hours:35
 Enter Rate:2.75
 Pay: 96.25
