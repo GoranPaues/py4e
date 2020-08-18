@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 hrs = input("Enter Hours:")
 hrs_number = float(hrs)
 rate = input("Enter rate per hour:")

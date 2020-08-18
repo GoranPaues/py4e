@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def computepay(h,r):
     extra_rate = 1.5*r
     if h <= 40:
