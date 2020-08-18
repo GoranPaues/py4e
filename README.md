@@ -12,10 +12,10 @@ The assignments I made in the course [Python for Everybody](py4e.com).
 
 * Open a command terminal and go to the py4e git directory.
 
-* Run an assignment with python from command line:
+* Run an assignment with Python 3 from command line:
 
 ```cmd
-> python 2.3exercise.py
+> python3 2.3exercise.py
 Enter Hours:35
 Enter Rate:2.75
 Pay: 96.25
