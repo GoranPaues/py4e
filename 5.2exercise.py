@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 largest = None
 smallest = None
 while True:
